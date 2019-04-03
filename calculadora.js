@@ -1,3 +1,12 @@
+/**
+ * Soma dois numeros passados como paramentro
+
+ * @param {number} num1 
+ * @param {numeber} num2 
+ * @returns A soma dos dois numeros passados
+ */
+
+ 
 function soma (num1, num2){
 
 return num1 + num2
